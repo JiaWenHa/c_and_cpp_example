@@ -1,0 +1,1 @@
+gcc -pthread thread_cond.c -o thread_cond.out

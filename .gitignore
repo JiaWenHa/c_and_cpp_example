@@ -1,3 +1,4 @@
 sync_async_thread/sync_thread
 sync_async_thread/async_thread
 .vscode
+*.out
